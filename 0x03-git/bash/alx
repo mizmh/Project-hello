@@ -1,2 +1,2 @@
-#!bin/ban
-echo "ALX school is so cool"
+#!/bin/bash
+echo "ALX"
